@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nice Java tech talks!"
-date: 2020-04-06 13:32:20 +0300
+date: 2020-04-09 13:32:20 +0300
 description: List of all awesome Java tech talks based on topics. # Add post description (optional)
 img:  java-duke.png # Add image post (optional)
 tags: [Java, Talks]
