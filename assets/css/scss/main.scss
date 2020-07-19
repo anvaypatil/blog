@@ -139,6 +139,29 @@ table tfoot td {
   clear: both;
 }
 
+.blog-header {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5rem;
+  display: -webkit-box;
+  text-align: center;
+  background-color: #ffffff;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: row;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-align: stretch;
+  -webkit-align-items: stretch;
+      -ms-flex-align: stretch;
+          align-items: stretch;
+  -webkit-border-radius: 10px;
+          border-radius: 10px;
+  overflow: hidden;
+  -webkit-box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+          box-shadow: 0 1px 1px 0 rgba(31, 35, 46, 0.15);
+}
+
 /* - - - - - - - - - - Home Page Styles - - - - - - - - - - */
 @import 'parts/home-page';
 
@@ -147,6 +170,9 @@ table tfoot td {
 
 /* - - - - - - - - - - Tag Styles - - - - - - - - - - */
 @import 'parts/tag';
+
+/* - - - - - - - - - - Catagories Styles - - - - - - - - - - */
+@import 'parts/categories';
 
 /* - - - - - - - - - - Media Styles - - - - - - - - - - */
 @import 'media';

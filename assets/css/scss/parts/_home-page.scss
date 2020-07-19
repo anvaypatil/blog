@@ -21,7 +21,7 @@
     text-decoration: none;
     background-color: #ffffff;
     padding: 5px 10px;
-    margin-left: 5px;
+    margin: 5px;
     color: #263959;
     font-size: 12px;
     border-radius:20px;
@@ -207,6 +207,8 @@ a.older-posts, a.newer-posts {
   display: inline-block;
   color: $body-color;
   transition: transform .2s;
+  padding-right: 10px;
+  padding-left: 10px;
 }
 
 a.older-posts:hover {

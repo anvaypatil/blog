@@ -1,0 +1,27 @@
+---
+layout: main
+title: Categories
+permalink: /categories/
+---
+<section class="blog-categories">
+  <h1>Blogs & Notes</h1>
+  <div id="categories">
+    {% for category in site.categories %}
+    <div class="category-group">
+      {% capture category_name %}{{ category | first }}{% endcapture %}
+      <div id="#{{ category_name | slugize }}"></div>
+      {% assign cname = category_name | split: "-" %}
+      <h3 class="category-head">{{ cname | join: " " }}</h3>
+      <div class="category-items">
+        {% for post in site.categories[category_name] %}
+        <article class="category-item">
+          <img src="/blog/assets/img/{{ post.icon }}">
+          <a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+          <small><span> | {{ post.date | date_to_string }}</span></small>
+        </article>
+        {% endfor %}
+    </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

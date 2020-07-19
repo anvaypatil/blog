@@ -3,7 +3,9 @@ layout: post
 title: "Design Patterns"
 date: 2019-02-01 20:00:00 +0530
 description: Notes about design patterns. # Add post description (optional)
-img: notes-4.png  # Add image post (optional)
+img: design-pattern.jpg  # Add image post (optional)
+categories: design-&-architecture
+icon: blogging.png
 ---
 ## Notes on Why/What/Where about design patterns. 
 Design patterns are solutions to recurring problems; guidelines on how to tackle certain problems. They are not classes, packages or libraries that you can plug into your application and wait for the magic to happen. These are, rather, guidelines on how to tackle certain problems in certain situations. Also design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.
