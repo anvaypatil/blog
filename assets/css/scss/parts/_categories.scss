@@ -37,14 +37,14 @@
   }
 }
 .category-head:after {
-  content: '\002B';
+  content: '[\002B]';
   color: #777;
   font-weight: bold;
   float: right;
   margin-left: 5px;
 }
 .category-head.active:after {
-  content: "\2212";
+  content: "[\2212]";
 }
 .category-items {
   padding-left: 20px;
