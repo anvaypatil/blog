@@ -1444,14 +1444,33 @@ a.newer-posts:hover {
   -webkit-transition: all .3s;
   -o-transition: all .3s;
   transition: all .3s;
+  width: 100%;
+  cursor: pointer;
 }
 
 .category-group .category-head:hover {
   background-color: #ecf0f1;
 }
 
+.category-head:after {
+  content: '\002B';
+  color: #777;
+  font-weight: bold;
+  float: right;
+  margin-left: 5px;
+}
+
+.category-head.active:after {
+  content: "\2212";
+}
+
 .category-items {
   padding-left: 20px;
+  max-height: 0;
+  overflow: hidden;
+  -webkit-transition: max-height 0.2s ease-out;
+  -o-transition: max-height 0.2s ease-out;
+  transition: max-height 0.2s ease-out;
 }
 
 .category-item img {
