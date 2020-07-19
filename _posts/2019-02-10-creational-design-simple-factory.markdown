@@ -4,7 +4,7 @@ title: "Simple Factory - Creational Design Pattern"
 date: 2019-02-10 20:00:00 +0530
 description: Notes about design patterns. # Add post description (optional)
 img: design-pattern.jpg # Add image post (optional)
-tags: DesignPatterns
+tags: design-patterns
 categories: creational-pattern
 icon: blogging.png
 ---

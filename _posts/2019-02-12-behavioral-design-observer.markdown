@@ -4,7 +4,7 @@ title: "Observer - Behavioral Design Pattern"
 date: 2019-02-12 20:00:00 +0530
 description: Notes about design patterns. # Add post description (optional)
 img: design-pattern.jpg # Add image post (optional)
-tags: DesignPatterns
+tags: design-patterns
 categories: behavioral-pattern
 icon: blogging.png
 ---

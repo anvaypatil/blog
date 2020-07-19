@@ -5,6 +5,7 @@ date: 2019-02-01 20:00:00 +0530
 description: Notes about design patterns. # Add post description (optional)
 img: design-pattern.jpg  # Add image post (optional)
 categories: design-&-architecture
+tags: [design-patterns, design-&-architecture]
 icon: blogging.png
 ---
 ## Notes on Why/What/Where about design patterns. 
@@ -28,10 +29,10 @@ Design patterns are solutions to recurring problems; guidelines on how to tackle
 - **When solving a problem, you should always just start with the appropriate pattern**. This is untrue, please don't try to plug a design pattern and hope it serve the best. A developer should be aware about design patterns just to better communicate, those recurring problems, in given context. 
 
 
-> 🖖 Design Patterns are not just for developers, UX desiginers or Architects. It isn't bad to know if you being manager or from testing background 🤟 
+> 🖖 Design Patterns are not just for developers, UX desiginers or Architects. It isn't bad to know if you being manager or even someone from testing background 🤟 
 
 ### If you are an architect, You should be know more than you being aware about just Design Patterns:
-- You should be well versed with the programming environment (languages/infrastructures et al) its efficient techniques/best practices involving its usage.
+- You should be well versed with the programming environment (languages internals/infrastructures et al) its efficient techniques/best practices involving its usage.
 - You should be well versed/experienced about Software Development AntiPatterns. 
 - You should be well enlightened with Software Architecture AntiPatterns.
 - You should have done atleast once in life time, refactoring a bad code to good code, refactoring legacy systems to modern system.

@@ -4,7 +4,7 @@ title: "OO Design Patterns - Creational 101"
 date: 2019-02-10 18:00:00 +0530
 description: Notes about design patterns. # Add post description (optional)
 img: design-pattern.jpg # Add image post (optional)
-tags: DesignPatterns
+tags: design-patterns
 categories: design-pattern
 icon: blogging.png
 ---

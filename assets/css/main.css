@@ -1397,6 +1397,10 @@ a.newer-posts:hover {
   background-color: #ecf0f1;
 }
 
+.tag-title {
+  text-transform: capitalize;
+}
+
 .tag-list span a {
   text-decoration: none;
   color: #263959;
@@ -1454,7 +1458,7 @@ a.newer-posts:hover {
 
 .category-head:after {
   content: '[\002B]';
-  color: #777;
+  color: #30966c;
   font-weight: bold;
   float: right;
   margin-left: 5px;
