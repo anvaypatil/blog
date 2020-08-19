@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Rust 101!"
+date: 2020-07-19 13:01:20 +0300
+description: Notes on Rust Language. # Add post description (optional)
+img:  rust101.png # Add image post (optional)
+categories: rust-language
+icon: blogging.png
+---
+After a long time of finding a spare time, i started learning Rust Langauge below are the quick notes which i can grab.
+### Rust 101
+Notes on Rust
+
+#### Notes
+1. [Basics](https://github.com/anvaypatil/rust101/blob/master/docs/1.basics.md){:target="_blank"}
+1. [Variables](https://github.com/anvaypatil/rust101/blob/master/docs/2.variables.md){:target="_blank"}
+1. [Data-types](https://github.com/anvaypatil/rust101/blob/master/docs/3.data-types.md){:target="_blank"}
+1. [Ownership](https://github.com/anvaypatil/rust101/blob/master/docs/16.ownership.md){:target="_blank"}
+1. [Operators](https://github.com/anvaypatil/rust101/blob/master/docs/4.operators.md){:target="_blank"}
+1. [Conditional expressions](https://github.com/anvaypatil/rust101/blob/master/docs/5.conditional-expressions.md){:target="_blank"}
+1. [Loops](https://github.com/anvaypatil/rust101/blob/master/docs/6.loops.md){:target="_blank"}
+1. [Functions](https://github.com/anvaypatil/rust101/blob/master/docs/7.functions.md){:target="_blank"}
+1. [Strings](https://github.com/anvaypatil/rust101/blob/master/docs/8.strings.md){:target="_blank"}
+1. [Vectors](https://github.com/anvaypatil/rust101/blob/master/docs/9.vectors.md){:target="_blank"}
+1. [Structs](https://github.com/anvaypatil/rust101/blob/master/docs/10.structs.md){:target="_blank"}
+1. [Enums](https://github.com/anvaypatil/rust101/blob/master/docs/11.enums.md){:target="_blank"}
+1. [Traits](https://github.com/anvaypatil/rust101/blob/master/docs/12.traits.md){:target="_blank"}
+1. [Generics](https://github.com/anvaypatil/rust101/blob/master/docs/13.generics.md){:target="_blank"}
+1. [Modules](https://github.com/anvaypatil/rust101/blob/master/docs/14.modules.md){:target="_blank"}
+1. [Memory-Management](https://github.com/anvaypatil/rust101/blob/master/docs/15.memory-management.md){:target="_blank"}
+1. [Closures Box and Iterators](https://github.com/anvaypatil/rust101/blob/master/docs/17.closures-box-iterators.md){:target="_blank"}
+1. [Lifetimes](https://github.com/anvaypatil/rust101/blob/master/docs/18.lifetimes.md){:target="_blank"}
+1. [Power Macro Metaprogramming](https://github.com/anvaypatil/rust101/blob/master/docs/19.marco-programming.md){:target="_blank"}
+1. [Error Handling](https://github.com/anvaypatil/rust101/blob/master/docs/20.error-handling.md){:target="_blank"}
