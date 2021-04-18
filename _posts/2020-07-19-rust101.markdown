@@ -26,9 +26,11 @@ Notes on Rust
 1. [Enums](https://github.com/anvaypatil/rust101/blob/master/docs/11.enums.md){:target="_blank"}
 1. [Traits](https://github.com/anvaypatil/rust101/blob/master/docs/12.traits.md){:target="_blank"}
 1. [Generics](https://github.com/anvaypatil/rust101/blob/master/docs/13.generics.md){:target="_blank"}
+1. [Generics vs Traits](https://github.com/anvaypatil/rust101/blob/master/docs/15.traits-vs-generics.md){:target="_blank"}
 1. [Modules](https://github.com/anvaypatil/rust101/blob/master/docs/14.modules.md){:target="_blank"}
-1. [Memory-Management](https://github.com/anvaypatil/rust101/blob/master/docs/15.memory-management.md){:target="_blank"}
-1. [Closures Box and Iterators](https://github.com/anvaypatil/rust101/blob/master/docs/17.closures-box-iterators.md){:target="_blank"}
-1. [Lifetimes](https://github.com/anvaypatil/rust101/blob/master/docs/18.lifetimes.md){:target="_blank"}
-1. [Power Macro Metaprogramming](https://github.com/anvaypatil/rust101/blob/master/docs/19.marco-programming.md){:target="_blank"}
-1. [Error Handling](https://github.com/anvaypatil/rust101/blob/master/docs/20.error-handling.md){:target="_blank"}
+1. [Memory-Management](https://github.com/anvaypatil/rust101/blob/master/docs/16.memory-management.md){:target="_blank"}
+1. [Closures Box and Iterators](https://github.com/anvaypatil/rust101/blob/master/docs/18.closures-box-iterators.md){:target="_blank"}
+1. [Lifetimes](https://github.com/anvaypatil/rust101/blob/master/docs/19.lifetimes.md){:target="_blank"}
+1. [Power Macro Metaprogramming](https://github.com/anvaypatil/rust101/blob/master/docs/20.marco-programming.md){:target="_blank"}
+1. [Error Handling](https://github.com/anvaypatil/rust101/blob/master/docs/21.error-handling.md){:target="_blank"}
+1. [Standard Collections in Rust](https://github.com/anvaypatil/rust101/blob/master/docs/22.standard-collections.md){:target="_blank"}

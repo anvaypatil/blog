@@ -8,7 +8,8 @@ node_modules/
 vendor/
 .bundle/
 .jekyll-cache/
-
+.idea
+*.iml
 ### macOS ###
 *.DS_Store
 .AppleDouble
