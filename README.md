@@ -17,4 +17,10 @@ docker run --rm -it --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/us
 #docker run
 docker run --rm --volume="$PWD:/srv/jekyll" --volume="$PWD/vendor/bundle:/usr/local/bundle" --env JEKYLL_ENV=development -p 4000:4000 jekyll/jekyll:3.8 jekyll serve
 bundle exec jekyll serve
+
+## npm run == to get into bash
+docker run -it --rm --name blog-node --volume="$PWD:/srv/jekyll" node:10-slim bash
+
+npm install
+npm install -g gulp
 ```

@@ -7,11 +7,9 @@ img:  rust101.png # Add image post (optional)
 categories: rust-language
 icon: blogging.png
 ---
-After a long time of finding a spare time, i started learning Rust Langauge below are the quick notes which i can grab.
-### Rust 101
-Notes on Rust
+Rust Language quick notes which i can grab while learning basics
 
-#### Notes
+### Rust 101 Notes
 1. [Basics](https://github.com/anvaypatil/rust101/blob/master/docs/1.basics.md){:target="_blank"}
 1. [Variables](https://github.com/anvaypatil/rust101/blob/master/docs/2.variables.md){:target="_blank"}
 1. [Data-types](https://github.com/anvaypatil/rust101/blob/master/docs/3.data-types.md){:target="_blank"}

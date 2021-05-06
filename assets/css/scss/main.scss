@@ -119,6 +119,21 @@ table tfoot td {
 }
 .article-page {
   background-color: #ffffff;
+  p, ul, ol {
+    margin-block-start: 1px;
+    margin-block-end: 1px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+  }
+  h3, h4 {
+    margin-block-start: 1px;
+    margin-block-end: 1px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+  .language-plaintext {
+    padding: 0 0
+  }
 }
 ::-moz-selection {
   background: rgba(38, 57, 89, 0.8);
