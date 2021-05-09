@@ -2,7 +2,7 @@
 layout: post
 title: "Code Code: Class Design"
 date: 2020-08-12 13:01:20 +0300
-description: How should we design class design
+description: How should we do class design
 img:  clean-code.png # Add image post (optional)(optional)
 categories: [clean-code]
 icon: blogging.png
