@@ -31,9 +31,9 @@ Design patterns are solutions to recurring problems; guidelines on how to tackle
 
 > 🖖 Design Patterns are not just for developers, UX desiginers or Architects. It isn't bad to know if you being manager or even someone from testing background 🤟 
 
-### If you are an architect, You should be know more than you being aware about just Design Patterns:
+### If you are an architect, You should know more than you being aware about just Design Patterns:
 - You should be well versed with the programming environment (languages internals/infrastructures et al) its efficient techniques/best practices involving its usage.
 - You should be well versed/experienced about Software Development AntiPatterns. 
 - You should be well enlightened with Software Architecture AntiPatterns.
-- You should have done atleast once in life time, refactoring a bad code to good code, refactoring legacy systems to modern system.
+- You should have done at-least once in life-time, refactoring a bad code to good code, refactoring legacy systems to modern system.
 
